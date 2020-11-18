@@ -9,4 +9,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HotelLandon.Models\HotelLandon.Models.csproj" />
+  </ItemGroup>
+
 </Project>

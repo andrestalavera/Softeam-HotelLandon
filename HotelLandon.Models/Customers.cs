@@ -7,7 +7,7 @@ namespace HotelLandon.Models
         public int Id { get; set; }
     }
 
-    public class Customers : EntityBase
+    public class Customer : EntityBase
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -24,6 +24,6 @@ namespace HotelLandon.Models
 
     public class Room : EntityBase
     {
-        
+        public int Number { get; set; }
     }
 }
