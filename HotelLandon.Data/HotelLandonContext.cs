@@ -1,6 +1,5 @@
 ﻿using HotelLandon.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace HotelLandon.Data
 {

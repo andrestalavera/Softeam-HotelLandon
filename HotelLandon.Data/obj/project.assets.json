@@ -2099,6 +2099,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "HotelLandon.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HotelLandon.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelLandon.Models.dll": {}
+        }
       }
     }
   },
@@ -7254,10 +7264,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "HotelLandon.Models/1.0.0": {
+      "type": "project",
+      "path": "../HotelLandon.Models/HotelLandon.Models.csproj",
+      "msbuildProject": "../HotelLandon.Models/HotelLandon.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "HotelLandon.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.6"
     ]
@@ -7296,7 +7312,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Repos\\Softeam\\HotelLandon\\HotelLandon.Models\\HotelLandon.Models.csproj": {
+              "projectPath": "C:\\Repos\\Softeam\\HotelLandon\\HotelLandon.Models\\HotelLandon.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
