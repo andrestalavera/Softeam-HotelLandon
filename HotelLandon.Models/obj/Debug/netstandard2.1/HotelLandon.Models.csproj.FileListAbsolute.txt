@@ -1,0 +1,9 @@
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\bin\Debug\netstandard2.1\HotelLandon.Models.deps.json
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\bin\Debug\netstandard2.1\HotelLandon.Models.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\bin\Debug\netstandard2.1\HotelLandon.Models.pdb
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\obj\Debug\netstandard2.1\HotelLandon.Models.csprojAssemblyReference.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\obj\Debug\netstandard2.1\HotelLandon.Models.AssemblyInfoInputs.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\obj\Debug\netstandard2.1\HotelLandon.Models.AssemblyInfo.cs
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\obj\Debug\netstandard2.1\HotelLandon.Models.csproj.CoreCompileInputs.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\obj\Debug\netstandard2.1\HotelLandon.Models.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Models\obj\Debug\netstandard2.1\HotelLandon.Models.pdb

@@ -1,0 +1,15 @@
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\net5.0\HotelLandon.Data.deps.json
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\net5.0\HotelLandon.Data.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\net5.0\ref\HotelLandon.Data.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\net5.0\HotelLandon.Data.pdb
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\net5.0\HotelLandon.Models.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\net5.0\HotelLandon.Models.pdb
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.csprojAssemblyReference.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.AssemblyInfoInputs.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.AssemblyInfo.cs
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.csproj.CoreCompileInputs.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.csproj.CopyComplete
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\ref\HotelLandon.Data.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\net5.0\HotelLandon.Data.pdb

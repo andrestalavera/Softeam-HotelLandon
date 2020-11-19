@@ -1,0 +1,12 @@
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.csprojAssemblyReference.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.AssemblyInfoInputs.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.AssemblyInfo.cs
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.csproj.CoreCompileInputs.cache
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\netstandard2.1\HotelLandon.Data.deps.json
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\netstandard2.1\HotelLandon.Data.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\netstandard2.1\HotelLandon.Data.pdb
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\netstandard2.1\HotelLandon.Models.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\bin\Debug\netstandard2.1\HotelLandon.Models.pdb
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.csproj.CopyComplete
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.dll
+C:\Repos\Softeam\HotelLandon\HotelLandon.Data\obj\Debug\netstandard2.1\HotelLandon.Data.pdb
