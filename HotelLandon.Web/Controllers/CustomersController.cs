@@ -2,6 +2,7 @@
 using HotelLandon.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -10,10 +11,12 @@ namespace HotelLandon.Web.Controllers
     public class CustomersController : Controller
     {
         private readonly HotelLandonContext _context;
+        private readonly ILogger<CustomersController> _logger;
 
-        public CustomersController(HotelLandonContext context)
+        public CustomersController(HotelLandonContext context, ILoggerFactory loggerFactory)
         {
             _context = context;
+            _logger = loggerFactory.CreateLogger<CustomersController>();
         }
 
         // GET: Customers
