@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging.ApplicationInsights;
 
 namespace HotelLandon.Web
 {
@@ -21,7 +22,12 @@ namespace HotelLandon.Web
         {
             services.AddDbContext<HotelLandonContext>();
             services.AddControllersWithViews();
-            services.AddApplicationInsightsTelemetry(Configuration["APPINSIGHTS_CONNECTIONSTRING"]);
+            var key = Configuration["APPINSIGHTS_CONNECTIONSTRING"];
+            services.AddApplicationInsightsTelemetry(options =>
+            {
+                options.EnableDebugLogger = true;
+                options.InstrumentationKey = key;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

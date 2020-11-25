@@ -28,7 +28,7 @@ namespace HotelLandon.Web.Controllers
         // GET: Customers
         public async Task<IActionResult> Index()
         {
-            _logger.LogInformation("Welcome to Customers page");
+            _logger.LogWarning("Welcome to Customers page !");
             return View(await _context.Customers.ToListAsync());
         }
 
